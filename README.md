@@ -2,7 +2,7 @@
 
 Just a basic calculator
 
-[Clique aqui para você acessar](https://fabinho070.github.io/nlw-esports-explorer/) ❤️ 
+[Click here to view](https://fabinho070.github.io/basic-calculator/) ❤️ 
 
 ## 🛠️ Technologies
 - HTML
