@@ -1,5 +1,15 @@
-# Calculator HTML
+# 🧮 Online Calculator HTML
 
-**Calculadora básica criada com HTML, CSS e JavaScrpt**
+Just a basic calculator
 
-**Completa.**
+[Clique aqui para você acessar](https://fabinho070.github.io/nlw-esports-explorer/) ❤️ 
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+- Git e Github
+
+## 📞 Contact
+- freitasfabiano08@gmail.com
+- @fabinhofreitastw
