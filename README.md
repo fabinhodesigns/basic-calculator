@@ -8,7 +8,7 @@ Just a basic calculator
 - HTML
 - CSS
 - JavaScript
-- Git e Github
+- Git and Github
 
 ## 📞 Contact
 - freitasfabiano08@gmail.com
