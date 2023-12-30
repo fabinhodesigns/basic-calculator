@@ -12,4 +12,4 @@ Just a basic calculator
 
 ## 📞 Contact
 - freitasfabiano08@gmail.com
-- @fabinhofreitastw
+- @ffabiiin
